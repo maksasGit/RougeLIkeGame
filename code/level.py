@@ -54,3 +54,4 @@ class CameraGroup(pygame.sprite.Group):
 
     def GitHubTest(self):
         print("Gihub")
+        print ("Push")
