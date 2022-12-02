@@ -7,6 +7,7 @@ from sprites import Generic
 
 
 class Level:
+
     def __init__(self):
             # get the display serface
         self.display_surface = pygame.display.get_surface()
